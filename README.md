@@ -4,7 +4,7 @@ This is an improved version of a previous project, [linktree-clone](https://gith
 
 The first project was created using only HTML and CSS. Each entry was added directly to the HTML file. Now, they're added to the page with JavaScript.
 
-- [Click and go to the live site](https://nathannieg.github.io/linktree-clone-js/).
+- [Click and go to the live site](https://linktree-clone-js.netlify.app/).
 
 ## Index
 
