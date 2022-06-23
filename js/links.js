@@ -21,16 +21,21 @@ const linksArray = [
   },
   {
     id: 5,
+    name: 'Linktree clone using JavaScript',
+    url: 'https://github.com/nathannieg/linktree-clone-js'
+  },
+  {
+    id: 6,
     name: 'Average Calculator',
     url: 'https://github.com/nathannieg/calculadora-de-media'
   },
   {
-    id: 6,
+    id: 7,
     name: 'Stats Preview',
     url: 'https://github.com/nathannieg/frontendmentor-stats-preview'
   },
   {
-    id: 7,
+    id: 8,
     name: 'Three Column Preview',
     url: 'https://github.com/nathannieg/frontendmentor-3-column-preview'
   }
